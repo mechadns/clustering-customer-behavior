@@ -68,9 +68,7 @@ The dataset contains the following columns:
    ```
 
 2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   - Python 3.11+
 
 3. **Run the notebook**:
    ```bash
